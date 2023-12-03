@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Chicken fried rice</title>
+</head>
+
+<body>
+<h1>Chicken fried rice</h1><br><br>
+<img src="chicken.png">
+</body>
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Recipe Name - Your Recipe Website</title>
+</head>
+<body>
+    <header>
+        <div class="logo">Your Logo</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="catalog.html">Recipe Catalog</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="recipe">
+            <h1>Recipe Name</h1>
+            <div class="recipe-details">
+                <div class="recipe-images">
+                    <img src="recipe1.jpg" alt="Recipe Image 1">
+                    <!-- You can add more images as needed -->
+                </div>
+                <div class="recipe-content">
+                    <h2>Ingredients</h2>
+                    <ul>
+                        <li>Ingredient 1</li>
+                        <li>Ingredient 2</li>
+                        <!-- Add more ingredients as needed -->
+                    </ul>
+                    <h2>Cooking Instructions</h2>
+                    <ol>
+                        <li>Step 1: Instruction 1</li>
+                        <li>Step 2: Instruction 2</li>
+                        <!-- Add more instructions as needed -->
+                    </ol>
+                </div>
+            </div>
+            <div class="related-recipes">
+                <h2>Related Recipes</h2>
+                <div class="recipe">
+                    <img src="related1.jpg" alt="Related Recipe 1">
+                    <h3>Related Recipe 1</h3>
+                    <p>Brief description of related recipe 1.</p>
+                    <button>View Recipe</button>
+                </div>
+                <!-- Add more related recipes as needed -->
+            </div>
+        </section>
+    </main>
+    <footer>
+        <!-- Footer content here -->
+    </footer>
+</body>
+</html>
